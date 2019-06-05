@@ -1,5 +1,5 @@
 {
-    "name": "laravel-mongodb-passport",
+    "name": "sedrak/laravel-mongodb-passport",
     "description": "Laravel Passport provides OAuth2 server support to Laravel-mongodb.",
     "keywords": ["laravel", "passport", "oauth","mongodb"],
     "license": "MIT",
